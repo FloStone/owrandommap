@@ -89,8 +89,6 @@ def mainloop():
         # add map to playedmaps
         playedmaps.append(selectedmap)
 
-        print(playedmaps)
-
         # print current map
         print("Your next Map is " + selectedmap)
 
